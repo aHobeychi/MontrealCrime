@@ -1,0 +1,1 @@
+# Data Visualization of the crimes committed in Montreal from 2015 to 2020, The dataset comes from http://donnees.ville.montreal.qc.ca/dataset/actes-criminels . however, I have removed all non-complete reports such as those missing a reported location, thus the information is not representative of the whole. This is done purely from an educational perspective. 
